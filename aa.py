@@ -1,2 +1,1 @@
-print('c')
-print('d')
+print('aaa')
